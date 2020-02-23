@@ -1,0 +1,35 @@
+li {
+  padding: 5px;
+  padding-left: 1rem;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body {
+  font-family: 'Quicksand';
+  background-color: #f5b642;
+}
+
+img {
+  height: 240px;
+  border-radius: 8rem;
+}
+
+button {
+  margin-left: 3rem;
+  border-radius: 2rem;
+}

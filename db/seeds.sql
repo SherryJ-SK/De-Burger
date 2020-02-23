@@ -1,4 +1,5 @@
-SELECT * FROM burgers_db.burgers;
-INSERT INTO burgers (burger_name) VALUES ('Pickle max');
-INSERT INTO burgers (burger_name) VALUES ('Bobbi burger');
-INSERT INTO burgers (burger_name) VALUES ('Cheese master');
+INSERT INTO burgers (name) VALUES ('Cheese King');
+INSERT INTO burgers (name) VALUES ('Pickle Max');
+INSERT INTO burgers (name, devoured) VALUES ('Vege Crazy', true);
+INSERT INTO burgers (name, devoured) VALUES ('Manson Secret', true);
+INSERT INTO burgers (name, devoured) VALUES ('Joe Garden', true);
